@@ -1,0 +1,33 @@
+
+/* MEDIA NAVBAR */
+
+.navBar {
+	background-color: $background-color_2;
+	margin-left: 30px;
+	padding: 1px;
+	gap: 1px;
+	li {
+		border: 2px solid black;
+		border-radius: 10px;
+		a {
+			color: $color_2;
+		}
+		&:hover {
+			background-color: $background-color_1;
+		}
+	}
+}
+.dropnavBar {
+	li {
+		a {
+			&:hover {
+				background-color: $background-color_1;
+			}
+		}
+	}
+}
+.barraNav {
+	justify-content: flex-end;
+}
+
+
