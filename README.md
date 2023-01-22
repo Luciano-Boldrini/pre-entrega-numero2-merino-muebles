@@ -1,6 +1,5 @@
 # Merino Muebles
 
-(# Merino Muebles)
 
 ![](https://i.postimg.cc/NGyYVhCh/262403351-2238474309636946-6866482934892857693-n-2.jpg))
 
@@ -19,8 +18,8 @@
 #### Lo Mejor de Visitar Nuestro Sitio Web
 - Precios Directo de Fabrica
 - Envio Gratis (Mendoza) Consultar otros destinos 
-- Podes comprar tu producto y pagarlo al momento de la entrega con cualquier tarjeta       
-:fa-cc-visa::fa-cc-mastercard::fa-cc-amex:
+- Podes comprar tu producto y pagarlo al momento de la entrega con cualquier tarjeta bancarizada.-      
+
 ------------
 
 
@@ -35,12 +34,11 @@
 ![bootstrap](https://i.postimg.cc/L4t31FWt/bootstrap.jpg "bootstrap")
 ### Editor De Codigo Utilizado
 ![VisualStudioCode](https://i.postimg.cc/rsT4yzCD/visual.jpg "VisualStudioCode")
+![GitHub](https://i.postimg.cc/gJjMmSsw/github.png "GitHub")  
 
 
 ------------
 
-![GitHub](https://i.postimg.cc/gJjMmSsw/github.png "GitHub")  **Accede a todo el codigo haciendo click en el lick Repositorio GitHub**
-*https://github.com/Luciano-Boldrini/pre-entrega-numero2-merino-muebles*
 
 
-------------
+
