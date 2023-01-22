@@ -1,6 +1,6 @@
 # Merino Muebles
 
-![](# Merino Muebles)
+(# Merino Muebles)
 
 ![](https://i.postimg.cc/NGyYVhCh/262403351-2238474309636946-6866482934892857693-n-2.jpg))
 
@@ -12,7 +12,7 @@
 
 
 ## Nuestra Empresa
-:fa-bed: Somos una empresa **familiar** ubicados en *San Rafael Mendoza (2 sucursales)* dedicada a la venta de colchones y ropa de blaco,en nuestra pagina encontraras nuestras ofertas exclusivas y podràs contactarte con un vendedor que te brindara una excelentisima atencion y velocidad de respuesta.
+ Somos una empresa **familiar** ubicados en *San Rafael Mendoza (2 sucursales)* dedicada a la venta de colchones y ropa de blaco,en nuestra pagina encontraras nuestras ofertas exclusivas y podràs contactarte con un vendedor que te brindara una excelentisima atencion y velocidad de respuesta.
 ### Contamos con:
 - Colchones - Sommiers (Todas las medidas)
 - Almohadas - Ropa De Blanco - Otros
@@ -24,7 +24,7 @@
 ------------
 
 
-## Autor Del Sitio Web :fa-street-view:
+## Autor Del Sitio Web
 ----  ***Luciano Boldrini***
 
 ------------
